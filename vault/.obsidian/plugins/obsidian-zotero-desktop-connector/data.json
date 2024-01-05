@@ -1,0 +1,45 @@
+{
+  "database": "Zotero",
+  "noteImportFolder": "",
+  "pdfExportImageDPI": 120,
+  "pdfExportImageFormat": "png",
+  "pdfExportImageQuality": 90,
+  "citeFormats": [
+    {
+      "name": "Cite",
+      "format": "template",
+      "template": "[[{{citekey}}|{{title}}]]",
+      "cslStyle": "elsevier-harvard"
+    }
+  ],
+  "exportFormats": [
+    {
+      "name": "Import conference paper",
+      "outputPathTemplate": "papers/{{citekey}}.md",
+      "imageOutputPathTemplate": "figures/{{citekey}}/",
+      "imageBaseNameTemplate": "figure",
+      "templatePath": "templates/Conference Paper.md",
+      "cslStyle": "elsevier-harvard"
+    },
+    {
+      "name": "Import journal article",
+      "outputPathTemplate": "papers/{{citekey}}.md",
+      "imageOutputPathTemplate": "figures/{{citekey}}/",
+      "imageBaseNameTemplate": "figure",
+      "templatePath": "templates/Journal Article.md",
+      "cslStyle": "elsevier-harvard"
+    },
+    {
+      "name": "Import arXiv preprint",
+      "outputPathTemplate": "papers/{{citekey}}.md",
+      "imageOutputPathTemplate": "figures/{{citekey}}/",
+      "imageBaseNameTemplate": "figure",
+      "templatePath": "templates/arXiv Preprint.md",
+      "cslStyle": "elsevier-harvard"
+    }
+  ],
+  "citeSuggestTemplate": "[[{{citekey}}]]",
+  "openNoteAfterImport": false,
+  "whichNotesToOpenAfterImport": "first-imported-note",
+  "shouldConcat": true
+}

@@ -1,0 +1,171 @@
+{
+  "main": {
+    "id": "bbd88eb884b941dc",
+    "type": "split",
+    "children": [
+      {
+        "id": "25bd00b3e749e151",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "18fe7c9e35a43b02",
+            "type": "leaf",
+            "state": {
+              "type": "graph",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "17c1806c2bacde86",
+    "type": "split",
+    "children": [
+      {
+        "id": "c7dcdf5c1781323f",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "c0455486673122ad",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "2ee6a584e502e18d",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "92180fedae55c1f3",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "c6d978ddbad289f0",
+    "type": "split",
+    "children": [
+      {
+        "id": "5710a201141f3470",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "31ca185ead12d67d",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "924ad1d637ac2c20",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "12b7e4a933ebb71f",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "b29d468d8732ad66",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false
+    }
+  },
+  "active": "18fe7c9e35a43b02",
+  "lastOpenFiles": [
+    "papers/tang2023understanding.md",
+    "templates/arXiv Preprint.md",
+    "papers/vaswani2017attention.md",
+    "figures/tang2023understanding/figure-4-x302-y539.png",
+    "figures/tang2023understanding/figure-2-x72-y515.png",
+    "figures/tang2023understanding",
+    "conferences/Conference on Neural Information Processing Systems.md",
+    "papers/bengio2013representation.md",
+    "figures/vaswani2017attention/figure-4-x338-y544.png",
+    "figures/vaswani2017attention/figure-4-x141-y553.png",
+    "figures/vaswani2017attention/figure-3-x182-y367.png",
+    "figures/vaswani2017attention",
+    "authors/Bengio, Yoshua.md",
+    "topics/Representation Learning.md",
+    "topics",
+    "templates/Journal Article.md",
+    "templates/Conference Paper.md",
+    "journals/IEEE Transactions on Pattern Analysis and Machine Intelligence.md",
+    "publishers/Institute of Electrical and Electronics Engineers.md",
+    "publishers",
+    "().md",
+    "figures",
+    "authors",
+    "conferences",
+    "journals",
+    "papers",
+    "templates"
+  ]
+}
